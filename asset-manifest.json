@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mathinezspot/static/css/main.8afdd6c2.css",
+    "main.js": "/mathinezspot/static/js/main.c9f4fcf5.js",
+    "index.html": "/mathinezspot/index.html",
+    "main.8afdd6c2.css.map": "/mathinezspot/static/css/main.8afdd6c2.css.map",
+    "main.c9f4fcf5.js.map": "/mathinezspot/static/js/main.c9f4fcf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8afdd6c2.css",
+    "static/js/main.c9f4fcf5.js"
+  ]
+}
