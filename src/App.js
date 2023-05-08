@@ -6,10 +6,12 @@ import Predictions from './pages/predictions/Predictions';
 import Livescore from './pages/livescore/Livescore';
 import About from './pages/About/About';
 import Contact from './pages/contact/Contact';
+import Navbar from './components/navbar/Navbar';
 
 function App() {
   return (
     <div className="App">
+      <Navbar />
       <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/stories' element={<Stories />}/>
