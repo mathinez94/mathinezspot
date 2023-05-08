@@ -17,8 +17,7 @@ function App() {
         <Route path='/livescore' element={<Livescore />}/>
         <Route path='/about' element={<About />}/>
         <Route path='/contact' element={<Contact />}/>
-      </Routes>
-      
+      </Routes> 
     </div>
   );
 }
